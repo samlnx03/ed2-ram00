@@ -2,6 +2,7 @@
 ram en verilog implementada en luts de una fpga
 
 mensajes del sintetizador
+
 Xst:2546 - "ram.v" line 38: reading initialization file "ram_init.txt".
 
 Xst:3231 - The small RAM <Mram_mem> will be implemented on LUTs 
